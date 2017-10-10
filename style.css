@@ -1,12 +1,25 @@
 body {
 	font-family: "Ubuntu",sans-serif;
+	background-image: url('bcg.jpg');
+	background-size: cover;
+}
+.bcg{
+	background-color: rgba(72, 201, 176  , 0.74);
+
 }
 .formContainer{
+	padding: 50px 20px;
 	background-color: #006E51;
-	margin-top: 100px;
+	margin-top: 158px;
+	margin-bottom: 160px;
 	color: #fff;
+	border-radius: 10px;
 	
 }
 .formContainer h1{
 	text-align: center;
+}
+.link {
+	font-size: 1em;
+	color: #DD4124;
 }
