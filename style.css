@@ -1,0 +1,12 @@
+body {
+	font-family: "Ubuntu",sans-serif;
+}
+.formContainer{
+	background-color: #006E51;
+	margin-top: 100px;
+	color: #fff;
+	
+}
+.formContainer h1{
+	text-align: center;
+}
