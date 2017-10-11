@@ -3,9 +3,18 @@ body {
 	background-image: url('bcg.jpg');
 	background-size: cover;
 }
+p{
+	font-size: 1.3em;
+}
 .bcg{
 	background-color: rgba(72, 201, 176  , 0.74);
 
+}
+.textContainer{
+	margin-top: 160px;
+	padding :40px;
+	line-height: 50px;
+	color: #fff;
 }
 .formContainer{
 	padding: 50px 20px;
